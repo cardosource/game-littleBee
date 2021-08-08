@@ -15,9 +15,9 @@ O jogo dispoem de 4 (quatro) niveis, o objetivo é capturar o maximo de flores s
 
 
 <div>
-    <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/tela_inicial.png" width="200"/>
+    <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/telainicial.png" width="200"/>
   
- <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/game.png" width="202" />
+ <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/gameiniciado.png" width="202" />
   
    <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/gameover.png" width="192" />
 </div>
