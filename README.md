@@ -14,7 +14,7 @@ concluir o desafio.
 <div class="box">
     <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/tela_inicial.png" width="200"/>
   
- <img src="/home/cardoso/game.png" width="202" />
+ <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/game.png" width="202" />
    <img src="/home/cardoso/gameover.png" width="192" />
 </div>
 
