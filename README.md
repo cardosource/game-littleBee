@@ -6,16 +6,20 @@ Jogo em primeira pessoa.
 O jogo constituí em avaliar o reflexo do jogador no uso do mouse, possui 3 (três) tenativas para
 concluir o desafio.
 
+O jogo dispoem de 4 (quatro) niveis
 
 
 
 
 
-<div class="box">
+
+
+<div>
     <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/tela_inicial.png" width="200"/>
   
  <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/game.png" width="202" />
-   <img src="/home/cardoso/gameover.png" width="192" />
+  
+   <img src="https://raw.githubusercontent.com/git-cardoso/game-littleBee/main/gameover.png" width="192" />
 </div>
 
 
