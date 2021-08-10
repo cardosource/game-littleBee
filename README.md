@@ -6,7 +6,7 @@ Jogo em primeira pessoa.
 O jogo constituí em avaliar o reflexo do jogador no uso do mouse, possui 3 (três) tenativas para
 concluir o desafio.
 
-O jogo dispoem de 4 (quatro) niveis, o objetivo é capturar o maximo de flores sem que tocar nas aranhas.
+O jogo dispoem de 4 (quatro) niveis, o objetivo é capturar o maximo de flores sem ter  que tocar nas aranhas.
 
 
 
