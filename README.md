@@ -31,6 +31,8 @@ O jogo dispoem de 4 (quatro) niveis, o objetivo é capturar o maximo de flores s
 
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-  
 
+
+
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSE) ![](https://img.shields.io/badge/python-3.9-informational?style=flat&logoColor=white&color=blue)
